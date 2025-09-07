@@ -1,4 +1,4 @@
 # New projrct
 
-this project is crested by local
+this project is created by local
 created by Alishan khan
